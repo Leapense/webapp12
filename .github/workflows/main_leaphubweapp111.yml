@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'leaphubweapp111'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B0D9FCE65574E8F8A613AADBB95490C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CD05E5C389D4490918BF96B4650BD6D }}
           package: .
